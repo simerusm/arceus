@@ -1,3 +1,5 @@
+*Developed alongside Ishaan Dey, Rajan Agarwal, and Josh Yan*
+
 # Arceus
 
 Hi everyone! Welcome to our distributed training framework, built from first principles leveraging model parallelism to optimize training on Apple M-series clusters. Arceus now supports model parallelism across multiple devices on the same local network!

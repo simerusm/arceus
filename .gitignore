@@ -1,0 +1,13 @@
+venv/
+.venv
+
+__pycache__/
+*.pyc
+
+/simple-federated-learning-main/
+
+data/
+
+validation/metrics/
+
+gpt/data.txt
